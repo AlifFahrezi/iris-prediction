@@ -34,7 +34,7 @@ Use the sidebar to explore the available features.
 # =========================
 menu = st.sidebar.selectbox(
     "📂 Choose an option:",
-    ("-", "Iris Species Prediction")
+    ("Iris Species Prediction")
 )
 
 # =========================
@@ -146,4 +146,5 @@ def iris_app():
 # =========================
 if menu == "Iris Species Prediction":
     iris_app()
+
 
