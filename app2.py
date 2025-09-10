@@ -24,7 +24,7 @@ st.set_page_config(
 st.markdown("""
 # 🌸 Welcome to My Machine Learning Dashboard
 
-This dashboard created by : [@aalifachrez_](https://www.linkedin.com/in/aliffahrezii/)  
+This dashboard created by : [Muhammad Alif Fahrezi](https://www.linkedin.com/in/aliffahrezii/)  
 Use the sidebar to explore the available features.
 ---
 """)
@@ -146,3 +146,4 @@ def iris_app():
 # =========================
 if menu == "Iris Species Prediction":
     iris_app()
+
